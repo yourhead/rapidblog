@@ -7,7 +7,7 @@ RapidBlog is a RapidWeaver plugin that connects your Blogger blog to your site.
 
 ## Download
  - [Stable Release v2.99.12](https://github.com/yourhead/rapidblog/raw/v2.99.12/downloads/rapidblog.2.99.12.zip)
- - [Beta v3.0.0 beta 1](httpshttps://github.com/yourhead/rapidblog/raw/v3.0.0b1/downloads/RapidBlog_3.0.0b1_1084.zip)
+ - [Beta v3.0.0 beta 1](https://github.com/yourhead/rapidblog/raw/v3.0.0b1/downloads/RapidBlog_3.0.0b1_1084.zip)
 
 
 ### From the LogHound site
