@@ -3,7 +3,7 @@
 #### originally by LogHound
 RapidBlog is a RapidWeaver plugin that connects your Blogger blog to your site.
 
-<img src='https://raw.githubusercontent.com/yourhead/rapidblog/master/assets/icon_256.png' style='max-width:256px; float:right;'>
+<img src='https://raw.githubusercontent.com/yourhead/rapidblog/master/assets/icon_256.png' width=256 >
 
 ## Download
  - [Stable Release v2.99.12](https://github.com/yourhead/rapidblog/raw/v2.99.12/downloads/rapidblog.2.99.12.zip)
